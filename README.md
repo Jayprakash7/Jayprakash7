@@ -74,6 +74,7 @@ I am a self-motivated, reliable, and hardworking software professional with a st
 - 🧪 Test-Driven Development (TDD)
 - ⚡ Performance optimization & scalable system design
 - 🤖 Generative AI & Intelligent Automation – Building AI-powered applications and exploring LLM integration for real-world solutions
+- 🐳 Docker & Containerization – Learning to deploy scalable apps with container technologies
 
 ---
 
