@@ -73,6 +73,7 @@ I am a self-motivated, reliable, and hardworking software professional with a st
 - ☁️ Cloud & Deployment (AWS)
 - 🧪 Test-Driven Development (TDD)
 - ⚡ Performance optimization & scalable system design
+- 🤖 Generative AI & Intelligent Automation – Building AI-powered applications and exploring LLM integration for real-world solutions
 
 ---
 
