@@ -1,66 +1,108 @@
 # Hi, I'm Jayaprakash Biswal! 👋
 
-I am a tech enthusiastic, self- motivated, reliable, responsible and hard working student.I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.
+💻 **Full Stack Java Developer**  
+🎓 **B.Tech Graduate – Computer Science & Engineering**  
+🏆 **Hackathon Winner | Tech Enthusiast | Content Writer**
 
-Currently i'm pursuing my Bachelor of Technology degree in Computer science and Engineering in Trident Academy of Technology.
+I am a self-motivated, reliable, and hardworking software professional with a strong passion for building scalable and impactful applications. I adapt quickly to challenging environments and perform effectively both as a team player and an independent contributor. I work well under pressure and consistently meet strict deadlines.
 
-I have completed my 12th from Stewart Science College, Cuttack in 2021
+---
 
-![Jayprakash7's Stats](https://github-readme-stats.vercel.app/api?username=Jayprakash7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## 📌 Education
 
+- 🎓 **Bachelor of Technology (B.Tech)**  
+  *Computer Science & Engineering*  
+  **Trident Academy of Technology**
+
+- 🏫 **Higher Secondary (12th Grade)**  
+  **Stewart Science College, Cuttack** — *2021*
+
+---
+
+## 💼 Professional Experience
+
+### **Full Stack Java Developer**  
+🏢 **Cozentus Technologies (P) Ltd**  
+📍 *India*
+
+- Developing enterprise-grade applications using **Java, Spring, and modern web technologies**
+- Working on **backend services, REST APIs, and database integration**
+- Collaborating with cross-functional teams to deliver high-quality solutions
+- Following **best coding practices, clean architecture, and agile methodologies**
+
+---
+
+## ✨ Developer Snapshot
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+MySQL;Building+Scalable+Enterprise+Apps;Hackathon+Winner+%7C+Problem+Solver" />
+</p>
+
+<p align="center">
+  💼 Full Stack Java Developer @ Cozentus Technologies (P) Ltd <br/>
+  🎓 B.Tech in Computer Science & Engineering <br/>
+  🏆 Multiple Hackathon Winner <br/>
+  ✍️ Technical Content Writer
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor of Technology degree in Computer science and Engineering in Trident Academy of Technology.
-- 🌐 Proud member of the Hackathon Club, contributing to the tech community.
-- ✍️ Content Writer at Hashnode.(https://hashnode.com/), gearing up to share valuable insights with the global coding community.
+- 🔭 Working as a **Full Stack Java Developer**
+- 🌐 Active contributor to hackathons and tech communities
+- ✍️ **Content Writer at Hashnode**, sharing technical insights and industry knowledge
 
-## My Articles
-- [The future of Artificial intelligence and it's impact on society](https://jayprakashbiswal.hashnode.dev/the-future-of-artificial-intelligence-and-its-impact-on-society-1)
+---
 
+## 📝 My Articles
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,java,c,git)](https://skillicons.dev)
+- 📘 [The Future of Artificial Intelligence and Its Impact on Society](https://jayprakashbiswal.hashnode.dev/the-future-of-artificial-intelligence-and-its-impact-on-society-1)
+
+---
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,js,html,css,react,mysql,postgresql,git)](https://skillicons.dev)
+
+---
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Advanced **Spring Boot & Microservices**
+- ☁️ Cloud & Deployment (AWS)
+- 🧪 Test-Driven Development (TDD)
+- ⚡ Performance optimization & scalable system design
 
- ## 🏆 Achievements
+---
 
-- 🏆 Winner, NIRMAN 3.0 (State-level Hackathon), out of 60+ teams (Silicon University)
-- 🌟 Finalist, IC Hack 2.0 (National-level Hackathon), organized by IEEE India Council at Manipal University Jaipur
-- 🏆 Winner, Trithon 2023 (Inter-college Hackathon), out of 40+ teams (Trident Academy of Technology)
-- 🌟 Shining Star Award 2024, honored by the college for multiple state-level hackathon wins
-- 🌟 Completed Programming in Java course by NPTEL, organized by IIT Kharagpur, with a 75% score
-- 🌟 Ranked 4th in Hack Fusion, project exhibition organized by NIT Jamshedpur
+## 🏆 Achievements
 
+- 🥇 **Winner**, NIRMAN 3.0 – State-level Hackathon (60+ teams)  
+  *Silicon University*
+
+- 🌟 **Finalist**, IC Hack 2.0 – National-level Hackathon  
+  *IEEE India Council, Manipal University Jaipur*
+
+- 🥇 **Winner**, Trithon 2023 – Inter-college Hackathon (40+ teams)  
+  *Trident Academy of Technology*
+
+- 🌟 **Shining Star Award 2024**  
+  *Awarded for multiple state-level hackathon victories*
+
+- 📜 **NPTEL – Programming in Java**, IIT Kharagpur  
+  *Score: 75%*
+
+- 🏅 **4th Rank**, Hack Fusion  
+  *Project Exhibition, NIT Jamshedpur*
+
+---
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/jayaprakash-biswal-9918b1257)
-- Read more of my articles on [Hashnode](https://hashnode.com/@Jayprakash777)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jayaprakash-biswal-9918b1257)
+- ✍️ [Hashnode](https://hashnode.com/@Jayprakash777)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+⭐ *Thanks for visiting my profile! Let’s connect and build scalable, impactful solutions together.* 🚀
